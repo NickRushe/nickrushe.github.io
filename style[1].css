@@ -1,0 +1,11 @@
+html, body {
+  height: 120%;
+  width: 120%;
+  background-color: blueviolet;
+  color: whitesmoke;
+}
+
+#price{
+  font-weight: bolder;
+  color: darkblue;
+}
